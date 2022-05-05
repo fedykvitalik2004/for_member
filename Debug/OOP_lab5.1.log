@@ -1,0 +1,9 @@
+﻿D:\visual\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (OOP_lab5.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  OOP_lab5.1.cpp
+  Parallelepiped.cpp
+  Pyramid.cpp
+  Sphere.cpp
+  Tetrahedron.cpp
+  Volume.cpp
+  Создание кода...
+  OOP_lab5.1.vcxproj -> C:\Users\vitaliy\source\repos\OOP_lab5.1\Debug\OOP_lab4.1.exe
